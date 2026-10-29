@@ -4,12 +4,12 @@ Consultor de horários mundiais em Python, via terminal. Mostra a hora atual de 
 
 ## Funcionalidades
 
-- Saudação inicial conforme o horário local
-- Consulta de horários por continente e país
-- Todos os continentes, com os principais países de cada um
-- Adição de novos países ao continente correto
-- Países adicionados ficam salvos e aparecem nas próximas consultas
-- Busca de fusos horários por parte do nome (ex.: `kolkata`, `tokyo`)
+- Saudação inicial conforme o horário local;
+- Consulta de horários por continente e país;
+- Todos os continentes, com os principais países de cada um;
+- Adição de novos países ao continente correto;
+- Países adicionados ficam salvos e aparecem nas próximas consultas;
+- Busca de fusos horários por parte do nome (ex.: `kolkata`, `tokyo`).
 
 ## Como usar
 
