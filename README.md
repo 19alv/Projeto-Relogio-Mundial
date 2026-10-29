@@ -1,4 +1,4 @@
-# 🌍 Horário Mundial
+#  Horário Mundial
 
 Consultor de horários mundiais em Python, via terminal. Mostra a hora atual de países de todos os continentes e exibe uma saudação (**Bom dia**, **Boa tarde** ou **Boa noite**) de acordo com o horário.
 
